@@ -9,7 +9,7 @@
 
 <body>
     <h1>Test SQL injection</h1>
-    <form action="select_injection.php" method="GET"></form>
+    <form action="select_injection_solution.php" method="GET"></form>
 
     <input type="text" placeholder="Enter Customer ID111" name="CustomerID">
     <br> <br>
